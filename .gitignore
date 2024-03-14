@@ -3,4 +3,6 @@
 .bloop/
 project/
 target/
+*.json
+*.fir
 ```
